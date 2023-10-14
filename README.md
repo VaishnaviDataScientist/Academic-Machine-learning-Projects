@@ -1,2 +1,2 @@
-# Academic-Machine-learning-Projects
-Collection of cutting-edge machine learning projects developed during my college years, showcasing innovative solutions to real-world problems. Explore a diverse range of algorithms, models, and data analysis techniques, highlighting my journey from novice to proficient in the field of AI and data science.
+# Academic-Machine-learning-Project 
+This project aims to boost the precision of early-stage Parkinson's disease prediction by optimizing dataset splitting, employing various classifiers, and identifying crucial features through feature extraction and model comparison.
